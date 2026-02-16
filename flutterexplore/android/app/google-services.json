@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "604492965652",
+    "project_id": "flutterexplore-cf65b",
+    "storage_bucket": "flutterexplore-cf65b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604492965652:android:f956a80d35a2eb7a350401",
+        "android_client_info": {
+          "package_name": "com.example.flutterexplore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDu4ih1lyN0GaLZeW7Q2aF33985VcN-T8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604492965652:android:bd0e161d06e51ebc350401",
+        "android_client_info": {
+          "package_name": "flutter.explore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDu4ih1lyN0GaLZeW7Q2aF33985VcN-T8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
